@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "nurdana",
+  "mongoUri": "mongodb+srv://root:root@clusternurba.owswkbn.mongodb.net/?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
